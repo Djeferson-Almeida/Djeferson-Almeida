@@ -1,7 +1,7 @@
 ### Olá eu sou o Djeferson!😃
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djeferson-almeida-b37932217/)
 
-![Djeferson-Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=Djeferson-Almeida&show_icons=true&theme=radical)
+![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Djeferson-Almeida&layout=compact&theme=vision-friendly-dark)
 
 ## Tecnologias que uso no meu dia a dia
 
