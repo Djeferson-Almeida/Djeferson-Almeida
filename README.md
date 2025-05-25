@@ -14,6 +14,13 @@
 <img align="center" alt= "Python" src="https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white">
 </div>
 <br/>
-Estudante assíduo de tecnologia!, em busca de conhecimento para desenvolver softwares de qualidade!
+Com foco em ser um desenvolvedor Back-End. Busco melhorar continuamente minhas práticas em Back-End através de cursos, desenvolvimento de projetos e API's.
+
+* ## 📞 Contatos
+* 📧 Email: djefersonalmeida20@gmail.com
+* 🔗 <a href="[URL_DE_DESTINO](https://www.linkedin.com/in/djeferson-almeida-b37932217/)">LinkedIn</a>
+* 📱 WhatsApp: (48) 99658-4456
+
+
 
 
