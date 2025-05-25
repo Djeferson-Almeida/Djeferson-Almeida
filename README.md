@@ -18,7 +18,7 @@ Com foco em ser um desenvolvedor Back-End. Busco melhorar continuamente minhas p
 
 * ## 📞 Contatos
 * 📧 Email: djefersonalmeida20@gmail.com
-* 🔗 <a href="[URL_DE_DESTINO](https://www.linkedin.com/in/djeferson-almeida-b37932217/)">LinkedIn</a>
+* 🔗 <a href="https://www.linkedin.com/in/djeferson-almeida-b37932217/">LinkedIn</a>
 * 📱 WhatsApp: (48) 99658-4456
 
 
