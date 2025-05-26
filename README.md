@@ -6,7 +6,9 @@
 ![Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=Djeferson-Almeida&layout=compact&theme=vision-friendly-dark)
 
 ## 📁Projetos 
-## <a href="https://github.com/Djeferson-Almeida/Java-api-rest-mongodb">Java-SprintBoot-MongoDB</a>
+### <a href="https://github.com/Djeferson-Almeida/Java-api-rest-mongodb">Java-SprintBoot-MongoDB</a>
+📌API que simula rede social, cadastro de usuários e visualização de posts com JQuery.
+🛠Tecnologias: Java 17, SpringBoot, MongoDB, Postman.
 
 
 ## Tecnologias que uso no meu dia a dia
