@@ -7,8 +7,8 @@
 
 ## 📁Projetos 
 ### <a href="https://github.com/Djeferson-Almeida/Java-api-rest-mongodb">Java-SprintBoot-MongoDB</a>
-📌API que simula rede social, cadastro de usuários e visualização de posts com JQuery.
-🛠Tecnologias: Java 17, SpringBoot, MongoDB, Postman.
+* 📌API que simula rede social, desenvolvimento de `CRUD` utilizando banco de dados `NoSQL` e consultas com `JQuery`.
+* 🛠Tecnologias: `Java 17`, `SpringBoot`, `MongoDB`, `Postman`.
 
 
 ## Tecnologias que uso no meu dia a dia
