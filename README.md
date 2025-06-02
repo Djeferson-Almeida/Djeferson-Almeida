@@ -26,7 +26,7 @@
 * ## 📞 Contatos
 * 📧 Email: djefersonalmeida20@gmail.com
 * 🔗 <a href="https://www.linkedin.com/in/djeferson-almeida-b37932217/">LinkedIn</a>
-* 📱 WhatsApp: (48) 99658-4456
+* 📱 <a href="https://wa.me/5548996584456/">WhatsApp</a>
 
 ### Estou sempre aberto há novas oportunidades e feedbacks! 🚀
 
