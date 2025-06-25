@@ -8,8 +8,13 @@
 ## 📁Projetos 
 ### <a href="https://github.com/Djeferson-Almeida/Java-api-rest-mongodb">Java-SprintBoot-MongoDB</a>
 * 📌API que simula rede social, desenvolvimento de `CRUD` utilizando banco de dados `NoSQL` e consultas com `JQuery`.
+* Status: `Concluído`
 * 🛠Tecnologias: `Java 17`, `SpringBoot`, `MongoDB`, `Postman`.
 
+### <a href="https://github.com/Djeferson-Almeida/Python-Rest-Api">API - Cadastro de hotéis</a>
+* 📌API projetada para gerenciar informações de hotéis, como nome, estrelas, diária e cidade. É uma aplicação robusta e escalável,ideal para servir como backend para sistemas de reserva ou consulta de hotéis em diversos sites.
+* Status: `Em desenvolvimento`
+* 🛠Tecnologias: `Python3.x`, `Flask`, `SQLAlchemy`, `Postman`,`Flask-JWT-Extended`.
 
 ## Tecnologias que uso no meu dia a dia
 
