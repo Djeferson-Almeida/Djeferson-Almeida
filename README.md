@@ -1,5 +1,5 @@
 ### Olá eu sou o Djeferson!😃
-### Com foco em ser desenvolvedor Back-End. Busco melhorar continuamente minhas práticas em Back-End através de cursos, desenvolvimento de projetos e API's.
+### Com foco em ser desenvolvedor Back-End. Busco melhorar continuamente minhas práticas de desenvolvimento de projetos e API's.
 ### Fique à vontade para explorar meus repositórios!!
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djeferson-almeida-b37932217/)
 
